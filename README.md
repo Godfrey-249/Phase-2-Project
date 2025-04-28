@@ -16,12 +16,19 @@ Your company now sees all the big companies creating original video content and 
 6. Understand Genre Performance in terms of ratings
 7. Identify Profitable Films
 8. Analyse Audience Sentiment and Engagement.
-9. Find Seasonal or Time-Based Trends
+9. Find month of release with the highest profits.
 
 ### 2. DATA UNDERSTANDING.
 #### Sources of Data.
-#### Data Cleaning. Th
+The Data used was from various locations, and the following data was used;
+rt_movies.tsv
+bom.movies.csv
+rt_reviews.csv
+im.db
+tn_movies.csv.
+
 #### Data Types and Information.
+The data collected was in integer and 
 
 ### 3. DATA PREPARATION.
 #### Dealing with blank cells.
