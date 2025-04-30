@@ -21,11 +21,11 @@ Your company now sees all the big companies creating original video content and 
 ### 2. DATA UNDERSTANDING.
 #### Sources of Data.
 The Data used was from various locations, and the following data was used;
-rt_movies.tsv
-bom.movies.csv
-rt_reviews.csv
-im.db
-tn_movies.csv.
+- rt_movies.tsv
+- bom.movies.csv
+- rt_reviews.csv
+- im.db
+- tn_movies.csv.
 
 
 ### 3. DATA PREPARATION.
