@@ -34,7 +34,7 @@ tn_movies.csv.
 - Changing Data Types.
 - Merging Data.
 
-### 4. DATA ANALYSIS
+### 4. DATA ANALYSIS AND VISUALIZATION
 ![Image](https://github.com/user-attachments/assets/11bbb850-276e-4c10-aa47-8e54ec8b276b)
 
 - From the analysis above, movies that focused on the foreign market recorded higher profits than those that focused on the domestic market. We can therefore recommend the studio to focus more on the foreign markets.
@@ -51,6 +51,10 @@ tn_movies.csv.
 - It is advisable for the movie studio to highly consider venturing into movies with shorter run time as the longer the periods the lower the ratings as shown above.
 
 - It is also advisable for the movie studio to venture into genres such as Dramas and Documentaries as from the analysis above, these genres earned the spot as the most popular genres over others such as Adventures, Biographies and Crime movies.
+
+### TABLEAU DASHBOARD 
+
+<img width="1470" alt="Screenshot 2025-04-30 at 10 40 17" src="https://github.com/user-attachments/assets/7a6f1fe4-142d-4f07-8ea5-a07a8af82ff4" />
 
 ### STATISTICAL DATA INTERGRATION
 
@@ -94,6 +98,7 @@ From the analysis we can conclude that Robert Tutak,Taylor Morden and MIchiel Br
 May, June and July have fewer movies being released but have relatively higher revenue income and would therefore recommend the company to consider creating a film during these months due to low traffic from newer movies but still maximixe on the profits
 
 Movies released in November and December have higher revenue generation compared to other months. I would therefore recommend the company to consider releasing their movies during these months.
+
 
 
 
