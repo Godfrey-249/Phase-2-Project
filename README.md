@@ -56,6 +56,7 @@ tn_movies.csv.
 
 <img width="1470" alt="Screenshot 2025-04-30 at 10 40 17" src="https://github.com/user-attachments/assets/7a6f1fe4-142d-4f07-8ea5-a07a8af82ff4" />
 
+[Tableau dashboard link](https://public.tableau.com/app/profile/faith.kamande/viz/GroupTableauProject_17459957815580/Dashboard)
 ### STATISTICAL DATA INTERGRATION
 
 1. Testing long and short movie ratings
