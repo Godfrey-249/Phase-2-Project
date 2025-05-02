@@ -54,7 +54,8 @@ The Data used was from various locations, and the following data was used;
 
 ### TABLEAU DASHBOARD 
 
-<img width="1470" alt="Screenshot 2025-04-30 at 10 40 17" src="https://github.com/user-attachments/assets/7a6f1fe4-142d-4f07-8ea5-a07a8af82ff4" />
+<img width="1470" alt="Screenshot 2025-04-30 at 10 42 21" src="https://github.com/user-attachments/assets/63fe5ed5-6fe8-496b-a82c-9f4621a1b70c" />
+
 
 [Tableau dashboard link](https://public.tableau.com/app/profile/faith.kamande/viz/GroupTableauProject_17459957815580/Dashboard)
 ### STATISTICAL DATA INTERGRATION
